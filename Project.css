@@ -1,0 +1,78 @@
+h1 {
+    color: black;
+}
+
+a {
+    color: darkblue;
+    
+}
+
+a {
+
+    font-family: fantasy;
+}
+a {
+    font-size: 30px 
+}
+a {
+    margin: 70px;
+}
+a {
+    margin: 0 auto;
+}
+h2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    width: 420px; height: 40px;
+    background-color: rgb(255, 0, 51);
+    padding: auto;
+    border-radius: 20px;
+    
+}
+.container {
+   display: flex;
+   margin: auto;
+   
+}
+h1 {
+    padding: 20px
+}
+body {
+    background: linear-gradient(rgba(80, 80, 200, 0.488), rgba(194, 151, 194, 0.146));
+}
+nav {
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center;     /* Centre verticalement */
+}
+h2 {
+    font-family: cursive;
+}
+h3 {
+    font-family: sans-serif;
+}
+.Entrées {
+    background-color: chartreuse;
+    height: auto ; width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 100px;
+}
+.Pincipales {
+    background-color: brown;
+    height: auto; width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 300px;
+}
+.Desserts {
+    background-color: coral;
+    height: auto; width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 100px;
+
+}
